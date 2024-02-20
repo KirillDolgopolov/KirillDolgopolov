@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirill Dolgopolov</h1>
-<h3 align="center">A java junior developer</h3>
+<h3 align="center">A java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirilldolgopolov&label=Profile%20views&color=0e75b6&style=flat" alt="kirilldolgopolov" /> </p>
 
