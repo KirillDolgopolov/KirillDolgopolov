@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirilldolgopolov" alt="kirilldolgopolov" /></a> </p>
 
-- 🔭 I’m currently working on **IT Academy project by Barcelona Activa**
+- 🔭 I’m currently working on **Bymar-Park S.L.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KirillDolgopolov](https://github.com/KirillDolgopolov)
 
-- 📫 How to reach me **kirilldolgopolov.it@gmail.com**
+- 📫 How to reach me **kirdolgopolov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
